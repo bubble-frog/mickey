@@ -1,0 +1,8 @@
+body {
+    background-image: url("background.jpg");
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    color:white;
+    font-weight:bolder;
+    background-size:cover;
+}
